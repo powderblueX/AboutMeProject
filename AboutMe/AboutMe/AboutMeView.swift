@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-import AVKit  // 需要引入 AVKit 以便使用 VideoPlayer
+import AVKit
 
 struct AboutMeView: View {
     @ObservedObject var viewModel: AboutMeViewModel
